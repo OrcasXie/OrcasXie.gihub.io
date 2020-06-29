@@ -1,2 +1,2 @@
-# OrcasXie.gihub.io
-Pesional Blog, using Hugo & Gihub Pages.
+# orcasxie.gihub.io
+Personal Blog, using Hugo & Gihub Pages.
